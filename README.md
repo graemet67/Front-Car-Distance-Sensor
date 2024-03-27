@@ -1,0 +1,1 @@
+A simple project to add front distance sensors to my car.  My vehicle is a VW Scirroco but will work with any vehicle.  Distance is displayed when an object is within 1200mm - a beeper sounds and display flashes when an object is within 400mm.  Both of these values can be easily changed in the Arduino code.
